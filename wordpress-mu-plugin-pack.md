@@ -66,4 +66,4 @@ For support, feature requests, or bug reports, please visit the plugin's GitHub 
 This plugin is licensed under the GPL v2 or later.
 
 ⭐ Star this repo if you hate dashboard clutter as much as I do
-https://github.com/zelkins33/wp-mu-plugins-pack
+https://github.com/zelkins33/mu-plugin-collection
