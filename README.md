@@ -5,15 +5,6 @@ Perfect for developers who hate bloat and love control.
 
 ---
 
-### Repository Contents
-
-mu-plugins/
-├── disable-site-health.php          ← Removes Site Health nag forever
-├── shortbread-breadcrumbs.php       ← Custom breadcrumbs with full admin styling panel
-├── classic-editor-for-posts-cpts.php   ← Forces Classic Editor on Posts + ALL Custom Post Types
-└── classic-editor-mini.php          ← Ultra-minimal version (single line, no comments)
-
-
 All files are **true MU-plugins** – just drop them in `wp-content/mu-plugins/` and they work instantly. No activation needed.
 
 ---
